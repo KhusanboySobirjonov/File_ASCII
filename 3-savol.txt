@@ -1,0 +1,3 @@
+3. Matnli f fayldagi xar bir so`z boshqasidan bitta «bo`sh joy» bеlgisi bilan 
+ajratilgan bo`lsin. Undagi barcha bеlgilarning ASCII kodlarini butun tipli g 
+faylga yozing.

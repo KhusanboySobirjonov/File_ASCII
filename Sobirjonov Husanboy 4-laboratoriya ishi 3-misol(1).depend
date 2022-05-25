@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652771000 source:d:\c++\sobirjonov husanboy 4-laboratoriya ishi 3-misol(1)\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
